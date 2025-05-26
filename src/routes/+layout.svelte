@@ -39,7 +39,7 @@
     </nav>
     
     <main>
-    
+        {@render children()}
     </main>
 </div>
 
